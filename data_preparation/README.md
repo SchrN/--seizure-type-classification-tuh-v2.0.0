@@ -22,7 +22,7 @@ python3 data_preparation/build_data.py --base_dir [Path to Raw data]
     --save_data_dir [Path to seizure type data] --tuh_eeg_szr_ver [v1.5.2 or v1.4.0 or v2.0.0]
 ```
 
-`tuh_eeg_szr_ver` could be 'v1.5.2' or 'v1.4.0' or v2.0.0
+`tuh_eeg_szr_ver` could be 'v1.5.2' or 'v1.4.0' or 'v2.0.0'
 
 
 ## Step 2 Preprocess the data
